@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poglodjan
-- 👀 I’m interested in machine learning, cybersec
+- 👀 I’m interested in machine learning, bigdata
 - 🌱 I’m currently learning Data analysis and Data engineering
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me poglodjan@gmail.com
